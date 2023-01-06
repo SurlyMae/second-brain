@@ -5,6 +5,6 @@ date: "2023-01-01"
 
 **Shrines of Gaiety by Kate Atkinson**
 
-post WWII in Soho, London. Good story, interesting characters, stellar storytelling. 
+Post WWI London, about a woman who owns some Soho nightclubs. Good story, interesting characters, stellar storytelling. 
 Highly recommend.
 

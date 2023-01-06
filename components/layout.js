@@ -14,7 +14,7 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/images/favicon.ico" />
         <meta
           name="description"
-          content="second brain"
+          content="various & sundry"
         />
         <meta
           property="og:image"
