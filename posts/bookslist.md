@@ -9,6 +9,7 @@ Post WWI London, about a woman who owns some Soho nightclubs. Good story, intere
 Highly recommend.
 
 **Engineering Management for the Rest of Us by Sarah Drasner**
+
 Ugh, love Sarah. 
 
 **The Making of a Manager by Julie Zhuo**
