@@ -11,3 +11,11 @@ date: "2023-01-01"
 
 **Dune (Frank Herbert)**
 
+**Looking for Trouble (Virginia Cowles)**
+
+**Fleishman is in Trouble (Taffy Brodesser-Akner)**
+
+**Horsekeeping on a Small Acreage (Cherry Hill)**
+
+**The Gentle Art of Swedish Death Cleaning (Margareta Magnusson)**
+
