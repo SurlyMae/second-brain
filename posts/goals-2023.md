@@ -1,5 +1,5 @@
 ---
-title: "2023: Looking ahead"
+title: "2023: looking ahead"
 date: "2023-01-01"
 ---
 ## 2022:
