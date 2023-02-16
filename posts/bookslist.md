@@ -19,3 +19,7 @@ date: "2023-01-01"
 
 **The Gentle Art of Swedish Death Cleaning (Margareta Magnusson)**
 
+**Unsheltered (Barbara Kingsolver)**
+
+**All Good People Here (Ashley Flowers)**
+
