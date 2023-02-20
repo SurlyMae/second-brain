@@ -47,14 +47,15 @@
 
 .listItem {
   margin: 0 0 1.25rem;
-  color: var(--c-green);
+  color: var(--c-fuschia);
 }
 
 .lightText {
-  color: var(--c-purple)
+  color: var(--c-green)
 }
+
 .articleDate {
-  color: var(--c-orange)
+  color: var(--c-green)
 }
 
 .articleText {

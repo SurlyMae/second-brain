@@ -40,17 +40,7 @@ body {
 	--line: 2.5ch;
 	--font: 'IBM', monospace;
 }
-body.invert {
-	--c-black: #d5d5d5;
-	--c-white: #2a2830;
-	--c-grey: #7e7e7e;
-	--c-purple: #6b1fa3;
-	--c-fuschia: #f50777;
-	--c-blue: #0b8cff;
-	--c-green: #00a76c;
-	--c-orange: #dd7200;
-	--c-yellow: #949700;
-}
+
 
 .black {   color:var(--c-black);   --c-current:var(--c-black); }
 .white {   color:var(--c-white);   --c-current:var(--c-white); }
@@ -68,8 +58,9 @@ a {
 	color:var(--c-current);
 	text-decoration: none;
 }
+
 a:hover, .selected, .hover:hover {
-	color:var(--c-black);
+	color:var(--c-purple);
 	background:var(--c-current);
 	box-shadow: 0.4ch 0 0 0 var(--c-current), -0.3ch 0 0 0 var(--c-current), 0.4ch 0.2ch 0 0 var(--c-current), -0.3ch 0.2ch 0 0 var(--c-current);
 	opacity:0.8;
