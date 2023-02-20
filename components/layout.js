@@ -14,11 +14,11 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/images/favicon.ico" />
         <meta
           name="description"
-          content="various & sundry"
+          content="ashly lamarr salt lake city"
         />
         <meta
           property="og:image"
-          content="/images/Jurgen_tifo.png"
+          content="/images/punkash-bee.png"
         />
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
@@ -28,12 +28,10 @@ export default function Layout({ children, home }) {
           <>
             <Image
               priority
-              src="/images/Jurgen_tifo.png"
-              className={utilStyles.borderCircle}
+              src="/images/punkash-bee.png"
               height={144}
               width={144}
-              alt="An artistic representation of LFC gaffer Jurgen Klopp"
-              title='Credit: Tifo Football'
+              alt="the PunkAsh Ventures logo"
             />
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
           </>
@@ -43,13 +41,11 @@ export default function Layout({ children, home }) {
               <a>
                 <Image
                   priority
-                  src="/images/Jurgen_tifo.png"
-                  className={utilStyles.borderCircle}
-                  height={108}
-                  width={108}
-                  alt="An artistic representation of LFC gaffer Jurgen Klopp"
-                  title='Credit: Tifo Football'
-                />
+                  src="/images/punkash-bee.png"
+                  height={144}
+                  width={144}
+                  alt="the PunkAsh Ventures logo"
+               />
               </a>
             </Link>
             <h2 className={utilStyles.headingLg}>
