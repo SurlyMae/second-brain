@@ -53,3 +53,10 @@
 .lightText {
   color: var(--c-purple)
 }
+.articleDate {
+  color: var(--c-orange)
+}
+
+.articleText {
+  color: var(--c-purple)
+}
