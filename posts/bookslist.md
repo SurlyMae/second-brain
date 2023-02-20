@@ -23,3 +23,7 @@ date: "2023-01-01"
 
 **All Good People Here (Ashley Flowers)**
 
+**Fates and Furies (Lauren Groff)**
+
+**Give Me Liberty: The True Story of Oswaldo Paya and His Daring Quest for a Free Cuba (David E. Hoffman)**
+
