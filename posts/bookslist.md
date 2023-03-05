@@ -27,3 +27,10 @@ date: "2023-01-01"
 
 **Give Me Liberty: The True Story of Oswaldo Paya and His Daring Quest for a Free Cuba (David E. Hoffman)**
 
+**Lisey's Story (Stephen King)**
+
+**The Swan Thieves (Elizabeth Kostova)**
+
+**Arcadia (Lauren Groff)**
+
+**The Lacuna (Barbara Kingsolver)**
