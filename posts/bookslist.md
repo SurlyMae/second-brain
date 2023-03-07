@@ -1,5 +1,5 @@
 ---
-title: "2023 books read"
+title: "2023: books read"
 date: "2023-01-01"
 ---
 
